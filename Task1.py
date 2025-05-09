@@ -4,7 +4,7 @@ import re
 import sys
 from bs4 import BeautifulSoup  # Import BeautifulSoup library
 
-# function to get the html source text of the medium article
+# function to get the html source text of the medium article#
 def get_page():
     global url
     
